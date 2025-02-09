@@ -1,0 +1,20 @@
+.custom-speed-buttons {
+    display: inline-block;
+    margin-left: 10px;
+  }
+  
+  .speed-button {
+    margin: 0 5px;
+    padding: 5px 10px;
+    background-color: #FF0000;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;    
+  }
+  
+  .speed-button:hover {
+    background-color: #CC0000;
+  }
+  
